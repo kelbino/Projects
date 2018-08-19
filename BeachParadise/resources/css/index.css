@@ -1,0 +1,70 @@
+html {
+  font-family: Helvetica, sans-serif;
+
+}
+
+h1, h2 {
+  color: DarkGreen;
+  text-align: center;
+
+}
+
+h3 {
+  color: SeaGreen;
+
+}
+
+body{
+  background-image: url("Sea.jpeg");
+  background-size: auto;
+
+}
+
+p{
+  background-color: rgba(46,139,87,0.40);
+
+}
+
+img{
+  border: 3px, solid, black;
+
+}
+
+
+.pic{
+  border: solid;
+
+}
+
+.beaches{
+  background-color: rgba(220,220,220,0.40);
+  text-align: center;
+
+}
+
+#bahia{
+  padding: 10px, 0px, 25px, 0px;
+  text-align: center;
+  border-bottom: solid;
+
+}
+
+#selange{
+  padding-top: 20px;
+  text-align: center;
+  border-bottom: solid;
+
+}
+
+#hunt{
+  padding-top: 20px;
+  text-align: center;
+  border-bottom: solid;
+
+}
+
+#moat{
+  padding-top: 20px;
+  text-align: center;
+
+}
