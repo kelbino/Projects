@@ -1,0 +1,71 @@
+html{
+  text-align: center;
+
+}
+
+h1, p, a,
+.subtitles,
+.info{
+  font-family: Helvetica;
+
+}
+
+h1, #midBanner,
+.subtitles{
+  font-weight: bold;
+
+}
+
+h1{
+  font-size: 70px;
+
+}
+
+h3{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+
+}
+
+a{
+  font-size: 18px;
+  color: white;
+
+}
+
+#TopPage,
+#midBanner,
+#footer{
+  color: white;
+
+}
+
+#TopPage,
+#midBanner{
+  background-image: url('../pictures/the-flatiron-building.PNG');
+
+}
+
+#footer{
+  background-color: dimgray;
+  font-size: 11px;
+  text-align: left;
+
+}
+
+#copyright{
+  font-size: 11px
+
+}
+
+#midBanner,
+.subtitles{
+  font-size: 23px;
+
+}
+
+.info{
+  .font-size: 14px;
+
+}
